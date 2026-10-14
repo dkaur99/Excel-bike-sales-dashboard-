@@ -21,5 +21,3 @@ Microsoft Excel (Pivot Tables, Pivot Charts, Slicers, Nested IF formulas)
 - Is commute distance related to buying a bike?
 - Which age groups buy the most bikes?
 
-l workbook (raw data, working sheet, pivot tables, dashboard)
-- `images/`: dashboard screenshots
