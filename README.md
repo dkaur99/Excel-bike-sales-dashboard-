@@ -9,6 +9,9 @@ Sample bike buyers dataset, records with fields such as marital status, gender, 
 ## Tools
 Microsoft Excel (Pivot Tables, Pivot Charts, Slicers, Nested IF formulas)
 
+## Dashboard Preview
+<img width="892" height="627" alt="excel project ss" src="https://github.com/user-attachments/assets/464c085f-6abd-45b4-869b-a57f7fc8bd4e" />
+
 ## What I Did
 - Kept a raw data sheet as a backup and worked on a separate copy
 - Cleaned the data: removed duplicates and replaced abbreviations with full labels (Find & Replace)
@@ -21,3 +24,5 @@ Microsoft Excel (Pivot Tables, Pivot Charts, Slicers, Nested IF formulas)
 - Is commute distance related to buying a bike?
 - Which age groups buy the most bikes?
 
+## Files
+- : the full workbook (raw data, working sheet, pivot tables, dashboard) IS DISPAYED IN ISSUES 
